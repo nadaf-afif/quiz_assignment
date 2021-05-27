@@ -1,0 +1,22 @@
+{
+    "options": [
+        {
+            "option_name" : "Chetah",
+            "option" : "A",
+            "is_correct" : true
+        },
+        {
+            "option_name" : "Tiger",
+            "option" : "B",
+            "is_correct" : false
+        }, {
+            "option_name" : "Lion",
+            "option" : "C",
+            "is_correct" : false
+        }, {
+            "option_name" : "Rabbit",
+            "option" : "D",
+            "is_correct" : false
+        }
+    ]
+}
